@@ -1,1 +1,4 @@
-# react-redux-crud-application
+【Udemy教材】
+フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門
+
+・7/2〜
